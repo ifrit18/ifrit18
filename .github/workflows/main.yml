@@ -11,14 +11,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
         with:
-          github_user_name: ifrit18
-          svg_out_path: dist/metrics.plugin.isocalendar.fullyear.svg
+          # This line actually hands your secret token to the action:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Modern replacement for 'svg_out_path' (outputs to root directory by default)
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          
+          # Enables the specific full-year calendar plugin you want
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Deploy to GitHub Pages Branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: . # Changed from 'dist' to '.' because the action saves the file to the root directory now
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
