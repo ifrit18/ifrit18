@@ -3,6 +3,6 @@
 
 ### 👩‍💻 A little bit about me and my projects:
 
-* 🎓 **Education:** 3rd Year Computer Science & Engineering student at University POLITEHNICA of Bucharest.
-* 🧪 **Currently studying:** Deeply passionate about , **Low-Level Development**, and **Cybersecurity**.
-* 🚀 **Fun fact:** I love hiking 🏔️ and cracking challenges (whether in the mountains, CTFs, or escape rooms!).
+🎓 **Education:** 3rd Year Computer Science & Engineering student at University POLITEHNICA of Bucharest.
+🧪 **Currently studying:** **Low-Level Development**, and **Cybersecurity**.
+🚀 **Fun fact:** I love hiking 🏔️ and cracking challenges (whether in the mountains, CTFs, or escape rooms!).
