@@ -3,6 +3,15 @@
 
 ### 👩‍💻 A little bit about me and my projects:
 
-🎓 **Education:** 3rd Year Computer Science & Engineering student at University POLITEHNICA of Bucharest.
-🧪 **Currently studying:** **Low-Level Development**, and **Cybersecurity**.
-🚀 **Fun fact:** I love hiking 🏔️ and cracking challenges (whether in the mountains, CTFs, or escape rooms!).
+🎓 **Education:** 3rd Year Computer Science & Engineering student at University POLITEHNICA of Bucharest.<br>
+🧪 **Currently studying:** **Low-Level Development**, and **Cybersecurity**.<br>
+🚀 **Fun fact:** I love hiking 🏔️ and cracking challenges (whether in the mountains, CTFs, or escape rooms!).<br>
+
+
+
+### 🧰 Some tools and technologies I have used:
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
