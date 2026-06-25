@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=timeGradient&height=120&width=500&section=header&text=Hello%20there!&render&fontSize=70&&animation=fadeIn)
 
-A little bit about me!
+# A little bit about me and my projects:
 <!--
 **ifrit18/ifrit18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
