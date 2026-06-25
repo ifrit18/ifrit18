@@ -28,7 +28,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="45" height="45"/>
 
 ### 📈 My GitHub History!
-### 📈 My GitHub History!
 ![City animation](./metrics.plugin.isocalendar.fullyear.svg)
           
           
