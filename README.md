@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=timeGradient&height=200&section=header&text=Hello%20there!&render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=speech&color=timeGradient&height=200&section=header&text=Hello%20there!&render&fontSize=90&&animation=fadeIn)
 <!--
 **ifrit18/ifrit18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
