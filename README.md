@@ -26,7 +26,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="45" height="45"/>
-                            
+
+### 📈 My GitHub History!
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
+
           
           
           
