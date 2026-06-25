@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=timeGradient&height=120&width=500&section=header&text=Hello%20there!&render&fontSize=70&&animation=fadeIn)
 
-:woman_technologist:# A little bit about me and my projects:
-:woman_student:I am studying computer engeneering.
-:lab_coat: I'm currently learning about digital forensics.
-:mountain: Fun fact: I love hiking.
+#:woman_technologist: A little bit about me and my projects:
+:woman_student:I am studying computer engeneering.<br>
+:lab_coat: I'm currently learning about digital forensics.<br>
+:mountain: Fun fact: I love hiking.<br>
 
 <!--
 **ifrit18/ifrit18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
