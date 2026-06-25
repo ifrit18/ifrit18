@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: ifrit18/metrics@latest
         with:
           github_user_name: ifrit18
           svg_out_path: dist/metrics.plugin.isocalendar.fullyear.svg
